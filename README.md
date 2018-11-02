@@ -6,6 +6,7 @@ This is the directions for the grade submiter from blackboard to canvas (GSBC):
 	1.After downloading the folder, click inside the folder and right click GSBC.exe ONCE
 	2.Then, click "Create Shortcut". Drag the file it makes, "GSBC.exe - Shortcut", to your desktop to open 
 	the program easily from your desktop.
+		-You might have to give access to various other things for the program to work.
 	3.Double click on the shortcut you just created to open the program.
 	4.Enter the information the program asks for. The passwords will be hidden as you type them, so don't worry
 	about your password not showing as you type.
