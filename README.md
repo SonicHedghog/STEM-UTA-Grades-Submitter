@@ -2,6 +2,7 @@
 A tool to take grades from Blackboard and submits them to Canvas
 
 This is the directions for the grade submiter from blackboard to canvas (GSBC):
+
 	1.After downloading the folder, click inside the folder and right click GSBC.exe ONCE
 	2.Then, click "Create Shortcut". Drag the file it makes, "GSBC.exe - Shortcut", to your desktop to open 
 	the program easily from your desktop.
